@@ -1,0 +1,7 @@
+.classpath
+        .gitignore
+        .project
+        .settings/
+        pom.xml
+        src/
+        test-output/
